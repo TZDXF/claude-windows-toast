@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-windows-toast",
+  "description": "Windows Toast notifications plugin for Claude Code",
+  "owner": {
+    "name": "TZDXF"
+  },
+  "plugins": [
+    {
+      "name": "claude-windows-toast",
+      "description": "Windows Toast notifications for Claude Code - get notified on completion, errors, and permission requests",
+      "version": "1.0.0",
+      "source": "./plugins/claude-windows-toast",
+      "author": {
+        "name": "TZDXF"
+      }
+    }
+  ]
+}
