@@ -21,13 +21,17 @@ Get notified when Claude completes a response, encounters an error, or needs you
 ## Install
 
 ```bash
-claude plugin add --marketplace git https://github.com/TZDXF/claude-windows-toast.git
+# 1. Add marketplace
+claude plugin marketplace add https://github.com/TZDXF/claude-windows-toast.git
+
+# 2. Install plugin
+claude plugin install claude-windows-toast
 ```
 
 ## Uninstall
 
 ```bash
-claude plugin remove claude-windows-toast
+claude plugin uninstall claude-windows-toast
 ```
 
 ## How it works
