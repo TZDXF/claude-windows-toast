@@ -1,0 +1,17 @@
+{
+  "name": "claude-windows-toast",
+  "description": "Windows Toast notifications for Claude Code - get notified when Claude completes, errors occur, or permission is needed",
+  "version": "1.0.0",
+  "author": {
+    "name": "TZDXF"
+  },
+  "homepage": "https://github.com/TZDXF/claude-windows-toast",
+  "repository": "https://github.com/TZDXF/claude-windows-toast",
+  "license": "MIT",
+  "keywords": [
+    "windows",
+    "toast",
+    "notification",
+    "hooks"
+  ]
+}

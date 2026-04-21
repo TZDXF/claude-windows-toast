@@ -1,0 +1,9 @@
+{
+  "name": "claude-windows-toast",
+  "version": "1.0.0",
+  "description": "Windows Toast notifications for Claude Code",
+  "main": "hooks/notify.js",
+  "repository": "https://github.com/TZDXF/claude-windows-toast",
+  "author": "TZDXF",
+  "license": "MIT"
+}
